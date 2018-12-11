@@ -8,6 +8,8 @@ I built the backend with php using PDO to interact with the database. Here i att
 
 To set up the database settings you have to go to classes/database.class.php and write the connection settings. Besides that setting everything is pretty straight-forward the js are in the scripts.js file
 
+The master branch has all the exercise the layout branch has only the layout in html / css
+
 Have a nice day.
 
 alfredogon82@gmail.com
